@@ -25,7 +25,7 @@ SECRET_KEY = "django-insecure-ulhx(w*x63e2)z$hk5n-1hgnaqzr@d7*6-t4t(*wbi34-y9zty
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["*"]
 
 # STRIPE_SECRET_KEY = 'sk_test_51HIHiuKBJV2qeWbD4IBpAODack7r7r9LJ0Y65zSFx7jUUwgy2nfKEgQGvorv1p2xp7tgMsJ5N9EW7K1lBdPnFnyK00kdrS27cj'
 STRIPE_SECRET_KEY = 'sk_test_51OcbLQSBp4rFYQEDuiVwmtQAqu4CM01e2wT5ZZZycheEGCPeB1xJIDXDze77K9yrpKXDef561ygsvb85BbeEvqs700opfrnRAb'
